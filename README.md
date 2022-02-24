@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # counterApp
+You can be able to increase the value by clicking on plus button and can also able to decrease the counter value by clicking on minus button.
+You can also change the counter font color by clicking Change Counter Color Button and select the color from the color picker and click on Apply Color Button.
